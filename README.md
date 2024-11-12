@@ -18,4 +18,4 @@ Botやプロキシなど色々なものを作る予定。
 
 ## ログとか投稿とか  
 
-<iframe src=""></iframe>
+<iframe src="https://raw.githubusercontent.com/OCxeRu-2951/OCxeRu-2951/refs/heads/main/log.txt"></iframe>
