@@ -16,6 +16,6 @@ Botやプロキシなど色々なものを作る予定。
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCxeRu-2951&theme=vue-dark&layout=compact" />
 </div>
 
-## ログとか投稿とか  
+## サイト  
 
-準備中
+準備中… 
